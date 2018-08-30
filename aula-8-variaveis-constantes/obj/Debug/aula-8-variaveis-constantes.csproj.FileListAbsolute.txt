@@ -1,0 +1,7 @@
+C:\Users\nicol\source\repos\aula-8-variaveis-constantes\aula-8-variaveis-constantes\bin\Debug\aula-8-variaveis-constantes.exe.config
+C:\Users\nicol\source\repos\aula-8-variaveis-constantes\aula-8-variaveis-constantes\bin\Debug\aula-8-variaveis-constantes.exe
+C:\Users\nicol\source\repos\aula-8-variaveis-constantes\aula-8-variaveis-constantes\bin\Debug\aula-8-variaveis-constantes.pdb
+C:\Users\nicol\source\repos\aula-8-variaveis-constantes\aula-8-variaveis-constantes\obj\Debug\aula-8-variaveis-constantes.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\aula-8-variaveis-constantes\aula-8-variaveis-constantes\obj\Debug\aula-8-variaveis-constantes.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\aula-8-variaveis-constantes\aula-8-variaveis-constantes\obj\Debug\aula-8-variaveis-constantes.exe
+C:\Users\nicol\source\repos\aula-8-variaveis-constantes\aula-8-variaveis-constantes\obj\Debug\aula-8-variaveis-constantes.pdb
